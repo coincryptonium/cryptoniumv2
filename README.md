@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Cryptoniumcoin development tree
 
@@ -30,3 +31,6 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+=======
+# cryptoniumv2
+>>>>>>> e204cb64cfb89d894cd035a2d7637f787f5cbfcb
